@@ -1,4 +1,4 @@
-# robosys_led
+# robosystem_led
 ##動作
 - `echo 1 > /dev/myled0` で10回点滅する。
 
