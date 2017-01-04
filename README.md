@@ -1,7 +1,6 @@
 # Robosystem_LED
 ##動作
-- `echo 1 > /dev/myled0` で2回連続の点滅を10回繰り返す。
-
+- `echo 1 > /dev/myled0` で10回点滅する。
 ##インストール方法
 1. led　ディレクトリに入る
 2. `make` 
